@@ -1,0 +1,6 @@
+@GIT_UITY_HostAddress = http://localhost:5109
+
+GET {{GIT_UITY_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
